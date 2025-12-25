@@ -13,6 +13,6 @@ author_profile: true
 
 ## Journal Articles
 
-* Kiriliouk, A., **Lee, J.**, Segers J. (2024) "X-vine models for multivariate extremes", JRSSB, 87(3), 579–602. [[DOI]](10.1093/jrsssb/qkae105) [[Code]]([link-to-github](https://github.com/JeongjinLee88/Xvine))
-* **Lee, J.**, Cooley, D., Wagner, A., Liston, G. (2024) "A calibration method for projecting future extremes via a linear mapping of parameters." *Environmental and Ecological Statistics*, 32, 1–20. [[DOI]](10.1007/s10651-024-00636-4)
-* **Lee, J.**, Cooley, D., Kokoszka, P., Breidt, J., Pezeshki, A. (2022) "Linear prediction and partial tail correlation for extremes." *Colorado State University. Libraries*. [[PDF]]()
+* Kiriliouk, A., **Lee, J.**, Segers J. (2024) "X-vine models for multivariate extremes", JRSSB, 87(3), 579–602. [[DOI]](10.1093/jrsssb/qkae105) [[Code]]([link-to-github](https://github.com/JeongjinLee88/Xvine)) [[PDF]](/assets/pdfs/X-vine_JRSSB.pdf)
+* **Lee, J.**, Cooley, D., Wagner, A., Liston, G. (2024) "A calibration method for projecting future extremes via a linear mapping of parameters." *Environmental and Ecological Statistics*, 32, 1–20. [[DOI]](10.1007/s10651-024-00636-4) [[PDF]](/assets/pdfs/calibration_EES.pdf)
+* **Lee, J.**, Cooley, D., Kokoszka, P., Breidt, J., Pezeshki, A. (2022) "Linear prediction and partial tail correlation for extremes." *Colorado State University. Libraries*. [[PDF]](/assets/pdfs/Lee_dissertation_CSU.pdf)
