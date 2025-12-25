@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jeongjin Lee"
   avatar : "/assets/images/profile.jpg"
-  bio    : "My research broadly concerns extreme value theory, focusing on the development of novel statistical methodologies for multivariate extremes."
+  bio    : "Senior Associate Researcher at Lancaster University"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
