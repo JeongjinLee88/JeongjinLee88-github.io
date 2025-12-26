@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<small>\* indicates first author or corresponding author</small>
+<small>\* indicates first author and/or corresponding author</small>
 
 ## Submitted
 
