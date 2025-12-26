@@ -19,10 +19,10 @@ classes: wide
 * **July 2024:** (Invited) Shanghai Center for Mathematical Sciences, China
 * **June 2023:** (Invited) EVA, Bocconi University, Italy
 * **May 2023:** ATMS workshop, KU Leuven, Belgium.
-* **Feb 2023:** Young Researcher Day (YRD), UCLouvain, Belgium.
+* **Feb 2023:** (Invited) Young Researcher Day (YRD), UCLouvain, Belgium.
 * **Dec 2022:** (Invited) CMStatistics, King's College London, UK
 * **Oct 2022:** Royal Statistical Society of Belgium (RSSB) Annual Meeting, Beigum.
-* **Oct 2022:** University of Namur, Belgium.
+* **Oct 2022:** (Invited) University of Namur, Belgium.
 * **Sep 2022:** International Centre Meetings Mathematics (CIRM), Marseille, France.
 * **Aug 2021:** (Virtual) JSM, USA.
 * **July 2021:** (Virtual) EVA, University of Edinburgh, UK.
