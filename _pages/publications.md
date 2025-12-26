@@ -3,6 +3,7 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+classes: wide
 ---
 
 <small>\* indicates first author or corresponding author</small>
