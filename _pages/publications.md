@@ -11,7 +11,7 @@ author_profile: true
 
 * Lee, J.\*, Wadsworth, J. (2025) "Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures", arXiv. [[Code]](https://github.com/JeongjinLee88/geocrit)
 * Kim, M., Lee, J.\* (2025) "Hypothesis testing for partial tail correlation in multivariate extremes", arXiv. [[Code]](https://github.com/JeongjinLee88/PTC)
-* Campbell, R., Grolmusova, K., Kakampakou, L., Lee, J.\* (2025) "Analysing Extreme Rainfall via a Geometric Framework EVA(2025) Conference Data Challenge: Team Lancaster Geometric", arXiv.
+* Campbell, R., Grolmusova, K., Kakampakou, L., Lee, J.\* (2025) "Analysing Extreme Rainfall via a Geometric Framework-EVA(2025) Conference Data Challenge: Team Lancaster Geometric", arXiv.
 
 ## Journal Articles
 
