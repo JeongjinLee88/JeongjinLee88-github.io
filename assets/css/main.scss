@@ -1,12 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
 @import "minimal-mistakes";
 
-/* Fix: Force profile picture to be fully visible (no opacity/blur) */
+/* 1. Fix: Force profile picture to be fully visible (no opacity/blur) */
 .author__avatar img {
   opacity: 1 !important;
   filter: none !important;
 }
 
-/* Optional: Hides the top-left site title (Jeongjin Lee) as discussed earlier */
+/* 2. Fix: Hide the top-left site title (Jeongjin Lee) */
 .masthead__site-title {
   display: none !important;
 }
