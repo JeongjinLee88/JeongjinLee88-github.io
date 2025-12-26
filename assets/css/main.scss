@@ -1,0 +1,12 @@
+@import "minimal-mistakes";
+
+/* Fix: Force profile picture to be fully visible (no opacity/blur) */
+.author__avatar img {
+  opacity: 1 !important;
+  filter: none !important;
+}
+
+/* Optional: Hides the top-left site title (Jeongjin Lee) as discussed earlier */
+.masthead__site-title {
+  display: none !important;
+}
