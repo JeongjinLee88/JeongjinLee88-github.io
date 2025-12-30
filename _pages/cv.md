@@ -8,7 +8,7 @@ classes: wide
 
 ### Education and Employment
 
-* **2024–2026:** Senior Associate Researcher, *Lancaster University*
+* **2024–Present:** Senior Associate Researcher, *Lancaster University*
 * **2022–2024:** Postdoctoral Researcher, *naXys Research Institute & UCLouvain*
 * **2016–2022:** Ph.D. in Statistics, *Colorado State University*
 
