@@ -12,7 +12,7 @@ classes: wide
 
 * **Lee, J.**\*, Wadsworth, J. (2025) "Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures", [[arXiv]](https://doi.org/10.48550/arXiv.2512.24392) [[Code]](https://github.com/JeongjinLee88/geocrit)
 * Kim, M., **Lee, J.**\* (2025) "Hypothesis testing for partial tail correlation in multivariate extremes", [[arXiv]](https://doi.org/10.48550/arXiv.2210.02048) [[Code]](https://github.com/JeongjinLee88/PTC)
-* Campbell, R., Grolmusova, K., Kakampakou, L., **Lee, J.**\* (2025) "Analysing Extreme Rainfall via a Geometric Framework", [[arXiv]]().
+* Campbell, R., Grolmusova, K., Kakampakou, L., **Lee, J.**\* (2025) "Analysing extreme rainfall via a geometric framework", [[arXiv]]().
 * **Lee J.**\*, Cooley, D. (2021) "Transformed-linear prediction for extremes", arXiv preprint arXiv:2111.03754 [[arXiv]](https://arxiv.org/pdf/2111.03754)
 
 
