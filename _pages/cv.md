@@ -8,9 +8,7 @@ classes: wide
 
 ### Education and Employment
 
-* **2024–Present:** Senior Associate Researcher, *Lancaster University*
-* **2022–2024:** Postdoctoral Researcher, *naXys Research Institute & UCLouvain*
-* **2016–2022:** Ph.D. in Statistics, *Colorado State University*
+I am currently a Senior Associate Researcher at *Lancaster University* (UK). Prior to this, I held a Postdoctoral Researcher position at *naXys Research Institute and UCLouvain* (Belgium). I earned my Ph.D. in Statistics from *Colorado State University*.
 
 ### Conference Talks
 
