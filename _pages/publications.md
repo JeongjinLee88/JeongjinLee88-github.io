@@ -6,11 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-<small>\* indicates first author and/or corresponding author</small>
+<small>\* indicates first author; \star indicates co-first author (equally contributed); \dagger indicates corresponding author </small>
 
-## Submitted
+## Under revision
 
-* **Lee J.**\*, Cooley, D. (2026) "Transformed-linear prediction for extremes", [[arXiv]](https://doi.org/10.48550/arXiv.2111.03754) [[Code]](https://github.com/JeongjinLee88/extlinpred)
+* **Lee J.**\*\dagger, Cooley, D. (2026) "Transformed-linear prediction for extremes", [[arXiv]](https://doi.org/10.48550/arXiv.2111.03754) [[Code]](https://github.com/JeongjinLee88/extlinpred)
 * **Lee, J.**\*, Wadsworth, J. (2025) "Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures", [[arXiv]](https://doi.org/10.48550/arXiv.2512.24392) [[Code]](https://github.com/JeongjinLee88/geocrit)
 * Kim, M., **Lee, J.**\* (2025) "Hypothesis testing for partial tail correlation in multivariate extremes", [[arXiv]](https://doi.org/10.48550/arXiv.2210.02048) [[Code]](https://github.com/JeongjinLee88/PTC)
 * Campbell, R., Grolmusova, K., Kakampakou, L., **Lee, J.**\* (2025) "Analysing extreme rainfall via a geometric framework."
@@ -18,7 +18,7 @@ classes: wide
 
 
 ## Journal Articles
-* **Lee J.**\*, Kim, Y. (2026) "Structure Learning for Multivariate Extremes: A Comparative Study of Regional UK Rainfall", *AIMS Mathematics*.
+* **Lee J.**\*, Kim, Y. (2026) "Structure Learning for Multivariate Extremes: A Comparative Study of Regional UK Rainfall", *AIMS Mathematics*, 11, 3, [[DOI]](https://www.aimspress.com/article/doi/10.3934/math.2026219)
 * Kiriliouk, A., **Lee, J.**\*, Segers J. (2024) "X-vine models for multivariate extremes", *JRSSB*, 87(3), 579–602. [[DOI]](https://doi.org/10.1093/jrsssb/qkae105) [[Code]](https://github.com/JeongjinLee88/Xvine) [[PDF]](/assets/pdfs/X-vine_JRSSB.pdf)
 * **Lee, J.**\*, Cooley, D., Wagner, A., Liston, G. (2024) "A calibration method for projecting future extremes via a linear mapping of parameters." *Environmental and Ecological Statistics*, 32, 1–20. [[DOI]](https://doi.org/10.1007/s10651-024-00636-4) [[PDF]](/assets/pdfs/calibration_EES.pdf)
-* Lee, J., Cooley, D., Kokoszka, P., Breidt, J., Pezeshki, A. (2022) "Linear prediction and partial tail correlation for extremes." *Colorado State University. Libraries*. [[PDF]](/assets/pdfs/Lee_dissertation_CSU.pdf)
+* **Lee, J.**, Cooley, D., Kokoszka, P., Breidt, J., Pezeshki, A. (2022) "Linear prediction and partial tail correlation for extremes." *Colorado State University. Libraries*. [[PDF]](/assets/pdfs/Lee_dissertation_CSU.pdf)
