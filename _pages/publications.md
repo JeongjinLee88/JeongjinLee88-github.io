@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<small> * indicates co-first author (equally contributed); † indicates corresponding author </small>
+<small> * indicates co-first author (equally contributed, with authors listed alphabetically); † indicates corresponding author </small>
 
 ## Under revision
 
