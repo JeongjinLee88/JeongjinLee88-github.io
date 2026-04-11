@@ -26,5 +26,5 @@ classes: wide
 * Gjonbrataj, J., Choi, W.-I., Bahn, Y. E., Rho, B. H., <b>Lee, J. J.</b>, and Lee, C. W. (2015). Incidence of idiopathic pulmonary fibrosis in Korea based on the 2011 ATS/ERS/JRS/ALAT statement. <i>The International Journal of Tuberculosis and Lung Disease</i>, 19(6), 742–746.
 * <b>Lee, J.</b>, Kim, N. H., Kwon, H. J., and Kim, Y. (2014). A Bayesian analysis of return levels for extreme precipitation in Korea. <i>The Korean Journal of Applied Statistics</i>, 27(6), 947–958.
 
-## Theses and Dissertations
+## Dissertations
 * <b>Lee, J.</b>, Cooley, D., Kokoszka, P., Breidt, J., and Pezeshki, A. (2022). Linear prediction and partial tail correlation for extremes. <i>Colorado State University. Libraries</i>. [[PDF]](/assets/pdfs/Lee_dissertation_CSU.pdf)
