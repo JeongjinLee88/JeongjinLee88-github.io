@@ -1,10 +1,11 @@
 ---
 layout: single
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching Experience"
 author_profile: true
 classes: wide
 ---
 
-* **STAT 307**: Introduction to Biostatistics, S20
-* **STAT 301**: Introduction to Statistical Methods, F19
+### Colorado State University
+* **STAT 307:** Introduction to Biostatistics (Spring 2020)
+* **STAT 301:** Introduction to Statistical Methods (Fall 2019)
