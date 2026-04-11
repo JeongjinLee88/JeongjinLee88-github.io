@@ -8,8 +8,6 @@ classes: wide
 
 [View my full CV (PDF)](/assets/pdfs/JeongjinLee_CV.pdf)
 
-## Presentations
-
 ### Invited Presentations
 * **CMStatistics**, Birkbeck, University of London, UK (Dec 2025) <br> <i>Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures</i>
 * **Shanghai Center for Mathematical Sciences**, China (July 2024) <br> <i>X-vine models for multivariate extremes</i>
