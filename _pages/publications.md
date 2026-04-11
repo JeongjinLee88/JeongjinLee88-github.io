@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Submitted Manuscripts
-<sub>&#42;<sup>&dagger;</sup>Co-first author (equal contribution, alphabetical order); <sup>&#42;</sup>Corresponding author</sub>
+<sub><sup>&dagger;</sup>Co-first author (equal contribution, alphabetical order); <sup>&#42;</sup>Corresponding author</sub>
 
 * <b>Lee, J.</b><sup>&#42;</sup> and Cooley, D. (2026). Transformed-linear prediction for extremes. [[arXiv]](https://doi.org/10.48550/arXiv.2111.03754) [[Code]](https://github.com/JeongjinLee88/extlinpred)
 * <b>Lee, J.</b><sup>&#42;</sup> and Wadsworth, J. (2025). Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures. [[arXiv]](https://doi.org/10.48550/arXiv.2512.24392) [[Code]](https://github.com/JeongjinLee88/geocrit)
