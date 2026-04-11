@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-## CV
-
 [View my full CV (PDF)](/assets/JeongjinLee_CV.pdf)
 
 ## Presentations
