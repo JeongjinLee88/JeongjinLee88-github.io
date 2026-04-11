@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-<a href="assets/pdfs/JeongjinLee_CV.pdf" target="_blank" rel="noopener noreferrer">View my full CV (PDF)</a>
+<a href="https://jeongjinlee88.github.io/assets/pdfs/JeongjinLee_CV.pdf" target="_blank" rel="noopener noreferrer">View my full CV (PDF)</a>
 
 ### Invited Presentations
 * **CMStatistics**, Birkbeck, University of London, UK (Dec 2025) <br> <i>Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures</i>
