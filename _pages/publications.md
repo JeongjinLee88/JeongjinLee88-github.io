@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-## Submitted Manuscripts
+## Under Review
 <sub><sup>&dagger;</sup>Co-first author (equal contribution, alphabetical order); <sup>&#42;</sup>Corresponding author</sub>
 
 * <b>Lee, J.</b><sup>&#42;</sup> and Cooley, D. (2026). Transformed-linear prediction for extremes. [[arXiv]](https://doi.org/10.48550/arXiv.2111.03754) [[Code]](https://github.com/JeongjinLee88/extlinpred)
