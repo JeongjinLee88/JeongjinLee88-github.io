@@ -15,4 +15,4 @@ title: "Welcome"
 My research interests broadly lie in extreme value theory, with a primary focus on developing novel statistical inference and methodologies for multivariate extremes.
 My work encompasses copula models, graphical models, geometric extremes, dimension reduction methods, spatial statistics, and environmental statistics.
 
-You can contact me at: j(dot)lee58(at)lancaster(dot)ac(dot)uk
+You can contact me at: jjlee@pknu.ac.kr
