@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Jeongjin Lee"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Senior Associate Researcher at Lancaster University"
+  bio    : "Assistant Professor at Pukyong National University"
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
