@@ -9,10 +9,10 @@ classes: wide
 ## Under Review
 <sub><sup>&dagger;</sup>Co-first author (equal contribution, alphabetical order); <sup>&#42;</sup>Corresponding author</sub>
 
-* <b>Lee, J.</b><sup>&#42;</sup> and Cooley, D. (2026). Transformed-linear prediction for extremes. [[arXiv]](https://doi.org/10.48550/arXiv.2111.03754) [[Code]](https://github.com/JeongjinLee88/extlinpred)
-* <b>Lee, J.</b><sup>&#42;</sup> and Wadsworth, J. (2025). Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures. [[arXiv]](https://doi.org/10.48550/arXiv.2512.24392) [[Code]](https://github.com/JeongjinLee88/geocrit)
-* Kim, M.<sup>&dagger;</sup> and <b>Lee, J.</b><sup>&#42;&dagger;</sup> (2025). Hypothesis testing for partial tail correlation in multivariate extremes. [[arXiv]](https://doi.org/10.48550/arXiv.2210.02048) [[Code]](https://github.com/JeongjinLee88/PTC)
-* Campbell, R.<sup>&dagger;</sup>, Grolmusova, K.<sup>&dagger;</sup>, Kakampakou, L.<sup>&dagger;</sup>, and <b>Lee, J.</b><sup>&#42;&dagger;</sup> (2025). Analysing extreme rainfall via a geometric framework. [[arXiv]](https://doi.org/10.48550/arXiv.2603.18149) 
+* <b>Lee, J.</b><sup>&#42;</sup> and Wadsworth, J. (2026+). Geometric criteria for identifying extremal dependence and flexible modeling via additive mixtures. [[arXiv]](https://doi.org/10.48550/arXiv.2512.24392) [[Code]](https://github.com/JeongjinLee88/geocrit)
+* <b>Lee, J.</b><sup>&#42;</sup> and Cooley, D. (2026+). Transformed-linear prediction for extremes. [[arXiv]](https://doi.org/10.48550/arXiv.2111.03754) [[Code]](https://github.com/JeongjinLee88/extlinpred)
+* Kim, M.<sup>&dagger;</sup> and <b>Lee, J.</b><sup>&#42;&dagger;</sup> (2026+). Hypothesis testing for partial tail correlation in multivariate extremes. [[arXiv]](https://doi.org/10.48550/arXiv.2210.02048) [[Code]](https://github.com/JeongjinLee88/PTC)
+* Campbell, R.<sup>&dagger;</sup>, Grolmusova, K.<sup>&dagger;</sup>, Kakampakou, L.<sup>&dagger;</sup>, and <b>Lee, J.</b><sup>&#42;&dagger;</sup> (2026+). Analysing extreme rainfall via a geometric framework. [[arXiv]](https://doi.org/10.48550/arXiv.2603.18149) <i>Extremes (to appear)
 
 ## Peer-Reviewed Publications
 * <b>Lee, J.</b> and Kim, Y. (2026). Structure learning for multivariate extremes: A comparative study of regional UK rainfall. <i>AIMS Mathematics</i>, 11(3). [[DOI]](https://www.aimspress.com/article/doi/10.3934/math.2026219)
